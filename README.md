@@ -8,16 +8,16 @@
 ```js
 {
     "name": "Test",
-    "email": "test@gmail.com",
-    "password": "1234"
+    "email": "test@mail.com",
+    "password": "12345"
 }
 ```
 
 - POST localhost:3000/auth/login
 ```js
 {
-    "email": "test@gmail.com",
-    "password": "1234"
+    "email": "test@mail.com",
+    "password": "12345"
 }
 ```
 
